@@ -83,7 +83,6 @@
 <div align="center">
 
 ### 🍪 MiemieBrownie E-commerce Platform
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=taufan759&repo=miemie-brownie&theme=tokyonight)](https://github.com/taufan759/miemie-brownie)
 
 **🎯 Problem Solved:** Local bakery needed online presence to expand customer reach  
 **💡 Solution:** Full-featured e-commerce platform with inventory management  
@@ -93,7 +92,6 @@
 ---
 
 ### 🧠 Adaptable Consulting Website  
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=taufan759&repo=adaptable-consulting&theme=tokyonight)](https://github.com/taufan759/adaptable-consulting)
 
 **🎯 Problem Solved:** Consulting firm needed professional web presence  
 **💡 Solution:** Responsive corporate website with modern design  
@@ -103,7 +101,6 @@
 ---
 
 ### 🏫 SD Lumingser 01 School Management System
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=taufan759&repo=sd-lumingser&theme=tokyonight)](https://github.com/taufan759/sd-lumingser)
 
 **🎯 Problem Solved:** School needed digital platform for information management  
 **💡 Solution:** Comprehensive school information system  
