@@ -4,10 +4,6 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Muhammad%20Taufan%20Akbar&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=FF6B35&center=true&vCenter=true&multiline=true&width=600&height=100&lines=Full+Stack+Developer+%F0%9F%92%BB;UI%2FUX+Designer+%F0%9F%8E%A8;Building+Awesome+Web+Experiences+%F0%9F%9A%80" alt="Typing SVG" />
-
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
-
 ### 🎓 Information Systems Student | 🌟 Tech Enthusiast | ⚡ Problem Solver
 
 <img src="https://img.shields.io/badge/Universitas_Bina_Sarana_Informatika-FF6B35?style=for-the-badge" alt="University">
