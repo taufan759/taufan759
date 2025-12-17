@@ -2,22 +2,14 @@
 
 <div align="center">
   
-  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;UI%2FUX+Designer;Information+Systems+Student;Problem+Solver+%26+Tech+Enthusiast)](https://git.io/typing-svg)
-  
-  <img src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif" width="900">
-  
-  <div align="center">
-    <img src="https://img.shields.io/badge/Role-Full%20Stack%20Developer-brightgreen?style=for-the-badge&logo=code&logoColor=white" alt="Role">
-    <img src="https://img.shields.io/badge/UI%2FUX-Designer-blue?style=for-the-badge&logo=figma&logoColor=white" alt="UI/UX">
-    <img src="https://img.shields.io/badge/Location-Tegal%2C%20Indonesia-orange?style=for-the-badge&logo=google-maps&logoColor=white" alt="Location">
-    <img src="https://img.shields.io/badge/GPA-4.00%2F4.00-success?style=for-the-badge&logo=academic&logoColor=white" alt="GPA">
-  </div>
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=FF6B35&center=true&vCenter=true&width=600&lines=Konoha+Village+Developer;Full+Stack+Ninja;UI%2FUX+Shinobi;Building+Digital+Jutsu)](https://git.io/typing-svg)
   
   <br>
   
-  <img src="https://komarev.com/ghpvc/?username=taufan759&style=for-the-badge&color=blueviolet" alt="Profile views" />
-  <img src="https://img.shields.io/github/followers/taufan759?style=for-the-badge&color=blue" alt="Followers">
-  <img src="https://img.shields.io/github/stars/taufan759?style=for-the-badge&color=yellow" alt="Stars">
+  <img src="https://img.shields.io/badge/Role-Full%20Stack%20Developer-brightgreen?style=for-the-badge&logo=code&logoColor=white" alt="Role">
+  <img src="https://img.shields.io/badge/UI%2FUX-Designer-blue?style=for-the-badge&logo=figma&logoColor=white" alt="UI/UX">
+  <img src="https://img.shields.io/badge/Location-Tegal%2C%20Indonesia-orange?style=for-the-badge&logo=google-maps&logoColor=white" alt="Location">
+  <img src="https://img.shields.io/badge/GPA-3.94%2F4.00-success?style=for-the-badge&logo=academic&logoColor=white" alt="GPA">
   
 </div>
 
@@ -27,25 +19,21 @@
 
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
 
-🎓 **Information Systems Student** passionate about creating innovative digital solutions that make a difference
+🎓 **Information Systems Student** at Universitas Pancasakti Tegal
 
-💡 Experienced in **full-stack development** and **research-driven UI/UX design** with a focus on user-centered approaches
+💡 Passionate about creating innovative digital solutions with focus on **user-centered design**
 
-🛠️ Love building scalable, maintainable, and visually appealing applications
+🛠️ Experienced in **full-stack development** and **UI/UX design**
 
-📚 Continuously learning through internships, bootcamps, and open-source contributions
+📚 Always learning through internships, bootcamps, and real-world projects
 
-🎯 Believer that great technology should be **functional**, **beautiful**, and **accessible**
-
-🌱 Currently exploring advanced React patterns, cloud technologies, and modern design systems
-
-⚡ Fun fact: I debug with coffee ☕ and design with music 🎵
+⚡ Coffee-powered developer ☕ who debugs by day and designs by night 🌙
 
 <br clear="right"/>
 
 ---
 
-## 🛠️ Tech Stack & Tools
+## 🛠️ Tech Stack
 
 <div align="center">
 
@@ -56,122 +44,60 @@
 <img src="https://skillicons.dev/icons?i=php,laravel,nodejs,mysql,postgresql" />
 
 ### Tools & Others
-<img src="https://skillicons.dev/icons?i=git,github,vscode,photoshop,postman,docker" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode,photoshop,postman" />
 
 </div>
-
-<details>
-<summary>📊 <b>Detailed Skills Breakdown</b></summary>
-<br>
-
-| Category | Technologies |
-|----------|-------------|
-| **Frontend** | HTML5, CSS3, JavaScript (ES6+), React.js, Tailwind CSS, Bootstrap |
-| **Backend** | PHP, Laravel, Node.js, RESTful APIs |
-| **Database** | MySQL, PostgreSQL |
-| **Design** | Figma, Adobe Photoshop, UI/UX Design, Responsive Design |
-| **Version Control** | Git, GitHub |
-| **Tools** | VS Code, Postman, npm/yarn |
-| **Methodologies** | Agile, Scrum, User-Centered Design |
-
-</details>
 
 ---
 
 ## 🌟 Featured Projects
 
-<div align="center">
-
 ### 🍪 MiemieBrownie E-commerce Platform
-
-**🎯 Problem Solved:** Local bakery needed online presence to expand customer reach  
-**💡 Solution:** Full-featured e-commerce platform with inventory management  
-**🛠️ Tech Stack:** `Laravel` `MySQL` `Bootstrap` `Midtrans Payment Gateway`  
-**⭐ Key Features:** Product catalog, shopping cart, order management, payment integration
-
----
+E-commerce platform for local bakery with complete order management system
+- **Tech:** Laravel, MySQL, Bootstrap, Midtrans Payment
+- **Features:** Product catalog, shopping cart, payment integration
 
 ### 🧠 Adaptable Consulting Website  
+Professional corporate website with modern responsive design
+- **Tech:** HTML5, CSS3, JavaScript
+- **Features:** Service portfolio, team showcase, mobile-optimized
 
-**🎯 Problem Solved:** Consulting firm needed professional web presence  
-**💡 Solution:** Responsive corporate website with modern design  
-**🛠️ Tech Stack:** `HTML5` `CSS3` `JavaScript` `Responsive Design`  
-**⭐ Key Features:** Service portfolio, team showcase, contact forms, mobile optimization
-
----
-
-### 🏫 SD Lumingser 01 School Management System
-
-**🎯 Problem Solved:** School needed digital platform for information management  
-**💡 Solution:** Comprehensive school information system  
-**🛠️ Tech Stack:** `PHP` `MySQL` `Bootstrap` `Admin Panel`  
-**⭐ Key Features:** News management, event calendar, resource library, user roles
-
-</div>
+### 🏫 SD Lumingser 01 School Management
+Comprehensive school information management system
+- **Tech:** PHP, MySQL, Bootstrap
+- **Features:** News management, event calendar, admin panel
 
 <div align="center">
   
-  **[📂 View All Projects](https://github.com/taufan759?tab=repositories)** | **[💼 Portfolio Website](https://taufan759.github.io)**
+  **[📂 View All Projects](https://github.com/taufan759?tab=repositories)**
   
 </div>
 
 ---
 
-## 📈 GitHub Analytics
+## 📈 GitHub Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=taufan759&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=taufan759&layout=compact&langs_count=8&theme=tokyonight"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=taufan759&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=taufan759&layout=compact&langs_count=8&theme=radical"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=taufan759&theme=tokyonight" alt="GitHub Streak" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=taufan759&theme=tokyo-night&area=true&hide_border=true" width="100%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=taufan759&theme=radical" alt="GitHub Streak" />
 </div>
 
 ---
 
-## 🏆 GitHub Trophies
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=taufan759&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4&row=1" />
-</div>
+## 🎯 Current Focus
+
+- 🔥 Learning: Advanced React, Next.js, TypeScript
+- 🌐 Building: Open-source UI component library
+- 📱 Exploring: Mobile development with React Native
+- ☁️ Practicing: Cloud deployment strategies
 
 ---
 
-## 📊 Weekly Development Breakdown
-
-<!--START_SECTION:waka-->
-```text
-JavaScript   8 hrs 15 mins   ████████████▒░░░░░░░░░░░░   48.91 % 
-PHP          4 hrs 32 mins   ██████▓░░░░░░░░░░░░░░░░░░   26.92 % 
-HTML         2 hrs 18 mins   ███▓░░░░░░░░░░░░░░░░░░░░░   13.67 % 
-CSS          1 hr 28 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   08.74 % 
-MySQL        18 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.83 % 
-```
-<!--END_SECTION:waka-->
-
----
-
-## 🎯 Current Focus & Goals
-
-<div align="center">
-
-### 2025 Objectives
-
-🔥 **Learning:** Advanced React Patterns, Next.js, TypeScript  
-🌐 **Building:** Open-source UI component library  
-🎨 **Designing:** Modern design system for Indonesian SMEs  
-📱 **Exploring:** Mobile app development with React Native  
-☁️ **Discovering:** Cloud deployment with AWS/Vercel  
-
-</div>
-
----
-
-## 📫 Let's Connect & Collaborate!
+## 📫 Connect With Me
 
 <div align="center">
   
@@ -187,16 +113,11 @@ MySQL        18 mins         ▒░░░░░░░░░░░░░░░░
   <a href="https://instagram.com/taufan759">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
-  <a href="https://wa.me/6285123456789">
-    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" />
-  </a>
   
-</div>
-
-<div align="center">
+  <br><br>
   
-  ### 💡 Open for:
-  **Freelance Projects** • **Collaboration** • **Internship Opportunities** • **Tech Discussions**
+  ### 💼 Open for Opportunities
+  **Freelance** • **Collaboration** • **Internships**
   
 </div>
 
@@ -204,12 +125,10 @@ MySQL        18 mins         ▒░░░░░░░░░░░░░░░░
 
 <div align="center">
   
-  **"Code is like humor. When you have to explain it, it's bad."** - Cory House
+  **"Code is poetry written in logic"**
   
-  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="500">
+  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="400">
   
-  **Thanks for visiting! 😊 Have a great day!**
+  **Thanks for visiting! Have a great day! 🚀**
   
 </div>
-
-<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="100%">
