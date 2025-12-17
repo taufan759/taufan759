@@ -4,8 +4,6 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Muhammad%20Taufan%20Akbar&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32" width="100%"/>
 
-### 🎓 Information Systems Student | 🌟 Tech Enthusiast | ⚡ Problem Solver
-
 <img src="https://img.shields.io/badge/Universitas_Bina_Sarana_Informatika-FF6B35?style=for-the-badge" alt="University">
 <img src="https://img.shields.io/badge/GPA-3.94%2F4.00-success?style=for-the-badge" alt="GPA">
 <img src="https://img.shields.io/badge/Tegal%2C_Indonesia-FFA500?style=for-the-badge&logo=google-maps&logoColor=white" alt="Location">
