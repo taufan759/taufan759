@@ -2,7 +2,9 @@
 
 # 🍥 Muhammad Taufan Akbar
 
-<img src="https://media.giphy.com/media/zz8l8w90SWV9bFdK4f/giphy.gif" width="600" alt="Naruto Coding">
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
 
 ### Full Stack Developer | UI/UX Designer | Information Systems Student
 
