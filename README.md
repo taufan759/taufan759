@@ -1,35 +1,27 @@
-# 👨‍💻 Muhammad Taufan Akbar
-
 <div align="center">
-  
-  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=FF6B35&center=true&vCenter=true&width=600&lines=Konoha+Village+Developer;Full+Stack+Ninja;UI%2FUX+Shinobi;Building+Digital+Jutsu)](https://git.io/typing-svg)
-  
-  <br>
-  
-  <img src="https://img.shields.io/badge/Role-Full%20Stack%20Developer-brightgreen?style=for-the-badge&logo=code&logoColor=white" alt="Role">
-  <img src="https://img.shields.io/badge/UI%2FUX-Designer-blue?style=for-the-badge&logo=figma&logoColor=white" alt="UI/UX">
-  <img src="https://img.shields.io/badge/Location-Tegal%2C%20Indonesia-orange?style=for-the-badge&logo=google-maps&logoColor=white" alt="Location">
-  <img src="https://img.shields.io/badge/GPA-3.94%2F4.00-success?style=for-the-badge&logo=academic&logoColor=white" alt="GPA">
-  
+
+# 🍥 Muhammad Taufan Akbar
+
+<img src="https://media.giphy.com/media/zz8l8w90SWV9bFdK4f/giphy.gif" width="600" alt="Naruto Coding">
+
+### Full Stack Developer | UI/UX Designer | Information Systems Student
+
+<img src="https://img.shields.io/badge/Universitas_Bina_Sarana_Informatika-FF6B35?style=for-the-badge" alt="University">
+<img src="https://img.shields.io/badge/GPA-3.94%2F4.00-success?style=for-the-badge" alt="GPA">
+<img src="https://img.shields.io/badge/Tegal%2C_Indonesia-FFA500?style=for-the-badge&logo=google-maps&logoColor=white" alt="Location">
+
 </div>
 
 ---
 
-## 🚀 About Me
+## 💼 About Me
 
-<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
+**Full Stack Developer** with passion for creating elegant and functional web solutions. Experienced in both frontend and backend development, with a strong focus on user experience design.
 
-🎓 **Information Systems Student** at Universitas Pancasakti Tegal
-
-💡 Passionate about creating innovative digital solutions with focus on **user-centered design**
-
-🛠️ Experienced in **full-stack development** and **UI/UX design**
-
-📚 Always learning through internships, bootcamps, and real-world projects
-
-⚡ Coffee-powered developer ☕ who debugs by day and designs by night 🌙
-
-<br clear="right"/>
+- 🎓 Studying Information Systems at Universitas Bina Sarana Informatika
+- 💻 Specializing in Laravel, React, and Modern Web Technologies
+- 🎨 UI/UX Designer with expertise in Figma and user-centered design
+- 📚 Continuous learner through real-world projects and internships
 
 ---
 
@@ -37,98 +29,69 @@
 
 <div align="center">
 
-### Frontend Development
-<img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,bootstrap,figma" />
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 
-### Backend Development  
-<img src="https://skillicons.dev/icons?i=php,laravel,nodejs,mysql,postgresql" />
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 
-### Tools & Others
-<img src="https://skillicons.dev/icons?i=git,github,vscode,photoshop,postman" />
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 
 </div>
 
 ---
 
-## 🌟 Featured Projects
+## 🚀 Featured Projects
 
-### 🍪 MiemieBrownie E-commerce Platform
-E-commerce platform for local bakery with complete order management system
-- **Tech:** Laravel, MySQL, Bootstrap, Midtrans Payment
-- **Features:** Product catalog, shopping cart, payment integration
+**MiemieBrownie E-commerce Platform**  
+Full-featured e-commerce platform for local bakery business  
+`Laravel` `MySQL` `Bootstrap` `Midtrans Payment Gateway`
 
-### 🧠 Adaptable Consulting Website  
-Professional corporate website with modern responsive design
-- **Tech:** HTML5, CSS3, JavaScript
-- **Features:** Service portfolio, team showcase, mobile-optimized
+**Adaptable Consulting Website**  
+Professional corporate website with responsive design  
+`HTML5` `CSS3` `JavaScript`
 
-### 🏫 SD Lumingser 01 School Management
-Comprehensive school information management system
-- **Tech:** PHP, MySQL, Bootstrap
-- **Features:** News management, event calendar, admin panel
+**SD Lumingser 01 School System**  
+School information management system  
+`PHP` `MySQL` `Bootstrap`
+
+---
+
+## 📊 GitHub Stats
 
 <div align="center">
-  
-  **[📂 View All Projects](https://github.com/taufan759?tab=repositories)**
-  
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=taufan759&show_icons=true&theme=tokyonight&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=taufan759&layout=compact&theme=tokyonight&hide_border=true"/>
 </div>
 
 ---
 
-## 📈 GitHub Stats
+## 📫 Let's Connect
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=taufan759&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=taufan759&layout=compact&langs_count=8&theme=radical"/>
-</div>
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=taufan759&theme=radical" alt="GitHub Streak" />
-</div>
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:taufan759@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/taufanhs)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/taufan759)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/taufan759)
 
----
+**Open for freelance projects and collaboration opportunities**
 
-## 🎯 Current Focus
-
-- 🔥 Learning: Advanced React, Next.js, TypeScript
-- 🌐 Building: Open-source UI component library
-- 📱 Exploring: Mobile development with React Native
-- ☁️ Practicing: Cloud deployment strategies
-
----
-
-## 📫 Connect With Me
-
-<div align="center">
-  
-  <a href="mailto:taufan759@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
-  </a>
-  <a href="https://www.linkedin.com/in/taufanhs">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://github.com/taufan759">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-  <a href="https://instagram.com/taufan759">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
-  </a>
-  
-  <br><br>
-  
-  ### 💼 Open for Opportunities
-  **Freelance** • **Collaboration** • **Internships**
-  
 </div>
 
 ---
 
 <div align="center">
   
-  **"Code is poetry written in logic"**
-  
-  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="400">
-  
-  **Thanks for visiting! Have a great day! 🚀**
-  
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>Thanks for visiting!</b> Feel free to reach out for any opportunities.</em>
+
 </div>
