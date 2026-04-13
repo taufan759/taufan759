@@ -2,7 +2,7 @@
 
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif">
 
-### 🚀 Full-Stack Web Developer | UI/UX Designer
+### 🚀 Full-Stack Web Developer
 
 I'm a passionate developer from Indonesia, specializing in building scalable web applications and creating intuitive user experiences.
 
