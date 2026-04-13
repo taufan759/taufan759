@@ -2,15 +2,16 @@
 
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif">
 
-### 🚀 Full-Stack Web Developer
+### 🚀 Full-Stack Developer | AI Enthusiast
 
-I'm a passionate developer from Indonesia, specializing in building scalable web applications and creating intuitive user experiences.
+I'm a passionate developer from Indonesia, specializing in building scalable applications and exploring the intersection of modern development with AI technologies.
 
-- 🔭 Currently working on **full-stack web projects**
-- 🌱 Learning **advanced system architecture & design patterns**
+- 🔭 Currently working on **full-stack projects & AI integration**
+- 🌱 Learning **AI agents, chatbot development & Flutter**
+- 🤖 Exploring **conversational interfaces & intelligent automation**
 - 💼 Open for **collaboration and opportunities**
 - 📍 Based in **Tegal, Central Java, Indonesia**
-- 🎓 Information Systems Student at **Universitas Bina Sarana Informatika**
+- 🎓 Information Systems Student at **Universitas Bina Sarana Informatika** (GPA: 3.98/4.00)
 
 ### 🔗 Connect with me:
 
@@ -28,6 +29,7 @@ I'm a passionate developer from Indonesia, specializing in building scalable web
 **Frontend:**  
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 ![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=flat-square&logo=vue.js&logoColor=4FC08D)
+![Nuxt](https://img.shields.io/badge/Nuxt-00DC82?style=flat-square&logo=nuxt.js&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
 
@@ -41,10 +43,14 @@ I'm a passionate developer from Indonesia, specializing in building scalable web
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
 
-**Tools & Design:**  
+**Mobile & Emerging:**  
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+
+**Tools & Others:**  
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=flat-square&logo=docker&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
 
 ---
 
@@ -72,4 +78,5 @@ I'm a passionate developer from Indonesia, specializing in building scalable web
 ---
 
 💼 **Looking for opportunities to collaborate on innovative projects!**  
+🤖 **Especially interested in AI integration, chatbot development, and intelligent automation**  
 📫 **Reach me at:** taufan759@gmail.com
