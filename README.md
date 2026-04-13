@@ -1,71 +1,81 @@
-<div align="center">
+# Hi there, I'm Muhammad Taufan Akbar 👋
 
-# Muhammad Taufan Akbar
+<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=F85D7F&center=true&vCenter=true&width=600&lines=Full-Stack+Web+Developer;UI%2FUX+Designer;Tech+Enthusiast;Open+for+Collaboration" alt="Typing SVG" />
+### 🚀 Full-Stack Web Developer | UI/UX Designer
 
-<br/>
+I'm a passionate developer from Indonesia, specializing in building scalable web applications and creating intuitive user experiences.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/taufanhs)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat&logo=vercel&logoColor=white)](https://portfolio-taufan.vercel.app)
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:taufan759@gmail.com)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://instagram.com/taufanakbr_)
+- 🔭 Currently working on **full-stack web projects**
+- 🌱 Learning **advanced system architecture & design patterns**
+- 💼 Open for **collaboration and opportunities**
+- 📍 Based in **Tegal, Central Java, Indonesia**
+- 🎓 Information Systems Student at **Universitas Bina Sarana Informatika**
 
-<br/>
+### 🔗 Connect with me:
 
----
-
-<br/>
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=taufan759&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=taufan759&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="165"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=taufan759&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" height="165"/>
-</p>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/taufanhs)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-taufan.vercel.app)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:taufan759@gmail.com)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/taufanakbr_)
 
 <br/>
 
 ---
 
-<br/>
+### 💻 Tech Stack:
 
-## 📈 Contribution Activity
+**Frontend:**  
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=flat-square&logo=vue.js&logoColor=4FC08D)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=taufan759&bg_color=1a1b27&color=38bdae&line=70a5fd&point=bf91f3&area=true&hide_border=true" alt="Contribution Graph" width="95%"/>
-</p>
+**Backend:**  
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
 
-<br/>
+**Database:**  
+![MySQL](https://img.shields.io/badge/MySQL-00000F?style=flat-square&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
+
+**Tools & Design:**  
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=flat-square&logo=docker&logoColor=white)
 
 ---
 
-<br/>
+### 📊 GitHub Stats:
 
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=taufan759&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7" alt="GitHub Trophies" width="95%"/>
+<p>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=taufan759&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=taufan759&layout=compact&langs_count=8&theme=algolia"/>
 </p>
 
-<br/>
+[![GitHub Streak](https://streak-stats.demolab.com/?user=taufan759&theme=algolia)](https://git.io/streak-stats)
 
 ---
 
-<br/>
+### 📈 Activity Graph:
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=taufan759&label=Profile%20Views&color=70a5fd&style=flat" alt="Profile Views"/>
+[![Taufan's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=taufan759&bg_color=0d1117&color=58a6ff&line=1f6feb&point=58a6ff&area=true&hide_border=true)](https://github.com/taufan759)
+
+---
+
+### 🏆 GitHub Trophies:
+
+![](https://github-profile-trophy.vercel.app/?username=taufan759&theme=algolia&no-frame=false&no-bg=false&margin-w=4)
+
+---
+
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=taufan759&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
 </p>
 
-<p align="center">
-  📍 <b>Tegal, Indonesia</b> • 🎓 <b>Information Systems Student</b> • 💼 <b>Open for Collaboration</b>
-</p>
+---
 
-<br/>
-
-</div>
+💼 **Looking for opportunities to collaborate on innovative projects!**  
+📫 **Reach me at:** taufan759@gmail.com
