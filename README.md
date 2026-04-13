@@ -65,12 +65,6 @@ I'm a passionate developer from Indonesia, specializing in building scalable web
 
 ---
 
-### 🏆 GitHub Trophies:
-
-![](https://github-profile-trophy.vercel.app/?username=taufan759&theme=algolia&no-frame=false&no-bg=false&margin-w=4)
-
----
-
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=taufan759&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
 </p>
