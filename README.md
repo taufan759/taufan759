@@ -13,8 +13,6 @@ A Full-Stack Developer and S.Kom (S1) graduate in Information Systems, specializ
 - 📍 Based in **Bandung, West Java, Indonesia**
 - 🎓 S.Kom (S1) in Information Systems, **Universitas Bina Sarana Informatika** (GPA: 3.98/4.00)
 
-<br clear="both"/>
-
 ### 🔗 Connect with me:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/taufanhs)
