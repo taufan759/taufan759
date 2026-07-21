@@ -4,14 +4,14 @@
 
 ### 🚀 Full-Stack Developer | AI Enthusiast
 
-I'm a passionate developer from Indonesia, specializing in building scalable applications and exploring the intersection of modern development with AI technologies.
+An Information Systems student specializing in Full-Stack Development[cite: 1]. I build scalable, user-centered applications backed by solid UX research and system analysis skills[cite: 1]. My core strength lies in transforming complex back-end logic into intuitive, responsive interfaces that users love[cite: 1]. I have successfully delivered high-impact projects, including comprehensive e-commerce platforms and large-scale government information systems[cite: 1].
 
-- 🔭 Currently working on **full-stack projects & AI integration**
-- 🌱 Learning **AI agents, chatbot development & Flutter**
-- 🤖 Exploring **conversational interfaces & intelligent automation**
-- 💼 Open for **collaboration and opportunities**
-- 📍 Based in **Tegal, Central Java, Indonesia**
-- 🎓 Information Systems Student at **Universitas Bina Sarana Informatika** (GPA: 3.98/4.00)
+- 🔭 Currently working on **scalable web applications & AI integration**
+- 🌱 Expanding expertise through the **DBS Foundation Coding Camp**[cite: 1]
+- 🤖 Diving deep into **chatbot development & conversational interfaces**[cite: 1]
+- 💼 Open for **collaboration to create intelligent, meaningful digital experiences**[cite: 1]
+- 📍 Based in **Bandung, West Java, Indonesia**
+- 🎓 Information Systems Student at **Universitas Bina Sarana Informatika** (GPA: 3.98/4.00)[cite: 1]
 
 ### 🔗 Connect with me:
 
@@ -78,5 +78,5 @@ I'm a passionate developer from Indonesia, specializing in building scalable app
 ---
 
 💼 **Looking for opportunities to collaborate on innovative projects!**  
-🤖 **Especially interested in AI integration, chatbot development, and intelligent automation**  
+🤖 **Passionate about leveraging emerging technologies and AI-driven solutions**
 📫 **Reach me at:** taufan759@gmail.com
