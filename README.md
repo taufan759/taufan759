@@ -2,16 +2,18 @@
 
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif">
 
-### 🚀 Full-Stack Developer | AI Enthusiast
+### 🚀 Full-Stack Developer | AI Enthusiast | Building Intelligent Solutions
 
-An Information Systems student specializing in Full-Stack Development[cite: 1]. I build scalable, user-centered applications backed by solid UX research and system analysis skills[cite: 1]. My core strength lies in transforming complex back-end logic into intuitive, responsive interfaces that users love[cite: 1]. I have successfully delivered high-impact projects, including comprehensive e-commerce platforms and large-scale government information systems[cite: 1].
+A Full-Stack Developer and S.Kom (S1) graduate in Information Systems, specializing in building scalable, user-centered applications. Backed by solid UX research and system analysis skills, my core strength lies in transforming complex back-end logic into intuitive, responsive interfaces that users love. I have successfully delivered high-impact projects, including comprehensive e-commerce platforms and large-scale government information systems.
 
 - 🔭 Currently working on **scalable web applications & AI integration**
-- 🌱 Expanding expertise through the **DBS Foundation Coding Camp**[cite: 1]
-- 🤖 Diving deep into **chatbot development & conversational interfaces**[cite: 1]
-- 💼 Open for **collaboration to create intelligent, meaningful digital experiences**[cite: 1]
+- 🌱 Expanding expertise through the **DBS Foundation Coding Camp**
+- 🤖 Diving deep into **chatbot development & conversational interfaces**
+- 💼 Open for **collaboration to create intelligent, meaningful digital experiences**
 - 📍 Based in **Bandung, West Java, Indonesia**
-- 🎓 Information Systems Student at **Universitas Bina Sarana Informatika** (GPA: 3.98/4.00)[cite: 1]
+- 🎓 S.Kom (S1) in Information Systems, **Universitas Bina Sarana Informatika** (GPA: 3.98/4.00)
+
+<br clear="both"/>
 
 ### 🔗 Connect with me:
 
@@ -78,5 +80,5 @@ An Information Systems student specializing in Full-Stack Development[cite: 1]. 
 ---
 
 💼 **Looking for opportunities to collaborate on innovative projects!**  
-🤖 **Passionate about leveraging emerging technologies and AI-driven solutions**
+🤖 **Passionate about leveraging emerging technologies and AI-driven solutions**  
 📫 **Reach me at:** taufan759@gmail.com
