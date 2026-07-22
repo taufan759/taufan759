@@ -1,6 +1,8 @@
 # Hi there, I'm Muhammad Taufan Akbar 👋
 
-<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif">
+<p align="center">
+  <img alt="Coding" width="400" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif">
+</p>
 
 ### 🚀 Full-Stack Developer | AI Enthusiast | Building Intelligent Solutions
 
@@ -12,15 +14,6 @@ A Full-Stack Developer and S.Kom (S1) graduate in Information Systems, specializ
 - 💼 Open for **collaboration to create intelligent, meaningful digital experiences**
 - 📍 Based in **Bandung, West Java, Indonesia**
 - 🎓 S.Kom (S1) in Information Systems, **Universitas Bina Sarana Informatika** (GPA: 3.98/4.00)
-
-### 🔗 Connect with me:
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/taufanhs)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-taufan.vercel.app)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:taufan759@gmail.com)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/taufanakbr_)
-
-<br/>
 
 ---
 
@@ -76,6 +69,15 @@ A Full-Stack Developer and S.Kom (S1) graduate in Information Systems, specializ
 </p>
 
 ---
+
+### 🔗 Connect with me:
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/taufanhs)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-taufan.vercel.app)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:taufan759@gmail.com)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/taufanakbr_)
+
+<br/>
 
 💼 **Looking for opportunities to collaborate on innovative projects!**  
 🤖 **Passionate about leveraging emerging technologies and AI-driven solutions**  
