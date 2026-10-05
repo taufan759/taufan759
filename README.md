@@ -12,9 +12,11 @@ I build scalable, user-centered web applications, turning complex back-end logic
 
 ## GitHub Activity
 
-<p align="center">
-  <img alt="Contribution chart" src="https://ghchart.rshah.org/1f6feb/taufan759" width="100%" />
-</p>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/taufan759/taufan759/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/taufan759/taufan759/output/github-snake.svg" />
+  <img alt="Contribution snake" src="https://raw.githubusercontent.com/taufan759/taufan759/output/github-snake.svg" width="100%" />
+</picture>
 
 <p>
   <img height="160" src="https://github-readme-stats-eight-theta.vercel.app/api?username=taufan759&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
