@@ -1,16 +1,20 @@
-# Muhammad Taufan Akbar
+# Hi there, I'm Muhammad Taufan Akbar 👋
 
 <p align="center">
   <img alt="Coding" width="400" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif">
 </p>
 
-**Full-Stack Developer** · Bandung, West Java, Indonesia
+### Full-Stack Developer | Building Intelligent Solutions
 
-Information Systems graduate (S.Kom, GPA 3.98/4.00) building scalable, user-centered web applications. Background in UX research and system analysis, with delivered e-commerce platforms and large-scale government information systems. Currently focused on AI integration and conversational interfaces.
+I build scalable, user-centered web applications, turning complex back-end logic into intuitive, responsive interfaces. I've delivered e-commerce platforms and large-scale government information systems, and I'm currently focused on AI integration and conversational interfaces.
+
+📍 Bandung, West Java, Indonesia
 
 ## GitHub Activity
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=taufan759&bg_color=0d1117&color=58a6ff&line=1f6feb&point=58a6ff&area=true&hide_border=true)](https://github.com/taufan759)
+<p align="center">
+  <img alt="Contribution chart" src="https://ghchart.rshah.org/1f6feb/taufan759" width="100%" />
+</p>
 
 <p>
   <img height="160" src="https://github-readme-stats-eight-theta.vercel.app/api?username=taufan759&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
