@@ -10,6 +10,8 @@ I build scalable, user-centered web applications, turning complex back-end logic
 
 📍 Bandung, West Java, Indonesia
 
+<img src="https://komarev.com/ghpvc/?username=taufan759&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+
 ## GitHub Activity
 
 <picture>
