@@ -22,10 +22,20 @@ I build scalable, user-centered web applications, turning complex back-end logic
   <img alt="Contribution snake" src="https://raw.githubusercontent.com/taufan759/taufan759/output/github-snake.svg" width="100%" />
 </picture>
 
-<p align="center">
-  <img alt="GitHub stats" src="https://raw.githubusercontent.com/taufan759/taufan759/metrics/github-stats.svg" width="49%" />
-  <img alt="Top languages" src="https://raw.githubusercontent.com/taufan759/taufan759/metrics/github-languages.svg" width="49%" />
-</p>
+<table align="center">
+  <tr>
+    <td>
+      <img alt="GitHub stats" height="170"
+        src="https://github-readme-stats-eight-theta.vercel.app/api?username=taufan759&show_icons=true&theme=algolia&hide_border=true&include_all_commits=true&count_private=true"
+        onerror="this.onerror=null;this.src='https://raw.githubusercontent.com/taufan759/taufan759/metrics/github-stats.svg'" />
+    </td>
+    <td>
+      <img alt="Top languages" height="170"
+        src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=taufan759&layout=compact&langs_count=6&theme=algolia&hide_border=true"
+        onerror="this.onerror=null;this.src='https://raw.githubusercontent.com/taufan759/taufan759/metrics/github-languages.svg'" />
+    </td>
+  </tr>
+</table>
 
 ## Contact
 
