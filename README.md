@@ -1,7 +1,8 @@
 # Hi there, I'm Muhammad Taufan Akbar 👋
 
 <p align="center">
-  <img alt="Coding" width="400" src="assets/coding.gif">
+  <!-- ganti dengan URL user-attachments hasil drag & drop -->
+  <img alt="Coding" width="400" src="PASTE_URL_GIF_DI_SINI">
 </p>
 
 ### Full-Stack Developer | Building Intelligent Solutions
@@ -10,6 +11,8 @@ I build scalable, user-centered web applications, turning complex back-end logic
 
 📍 Bandung, West Java, Indonesia
 
+<img src="https://komarev.com/ghpvc/?username=taufan759&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+
 ## GitHub Activity
 
 <picture>
@@ -17,6 +20,8 @@ I build scalable, user-centered web applications, turning complex back-end logic
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/taufan759/taufan759/output/github-snake.svg" />
   <img alt="Contribution snake" src="https://raw.githubusercontent.com/taufan759/taufan759/output/github-snake.svg" width="100%" />
 </picture>
+
+<img alt="GitHub stats and languages" src="https://raw.githubusercontent.com/taufan759/taufan759/metrics/github-metrics.svg" width="100%" />
 
 ## Contact
 
