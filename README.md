@@ -1,8 +1,7 @@
 # Hi there, I'm Muhammad Taufan Akbar 👋
 
 <p align="center">
-  <!-- ganti dengan URL user-attachments hasil drag & drop -->
-  <img alt="Coding" width="400" src="PASTE_URL_GIF_DI_SINI">
+  <img alt="Coding" width="400" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif">
 </p>
 
 ### Full-Stack Developer | Building Intelligent Solutions
@@ -11,7 +10,9 @@ I build scalable, user-centered web applications, turning complex back-end logic
 
 📍 Bandung, West Java, Indonesia
 
+<!--
 <img src="https://komarev.com/ghpvc/?username=taufan759&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+-->
 
 ## GitHub Activity
 
