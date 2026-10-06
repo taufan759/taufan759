@@ -1,7 +1,7 @@
 # Hi there, I'm Muhammad Taufan Akbar 👋
 
 <p align="center">
-  <img alt="Coding" width="400" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif">
+  <img alt="Coding" width="400" src="assets/coding.gif">
 </p>
 
 ### Full-Stack Developer | Building Intelligent Solutions
@@ -10,8 +10,6 @@ I build scalable, user-centered web applications, turning complex back-end logic
 
 📍 Bandung, West Java, Indonesia
 
-<img src="https://komarev.com/ghpvc/?username=taufan759&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
-
 ## GitHub Activity
 
 <picture>
@@ -19,11 +17,6 @@ I build scalable, user-centered web applications, turning complex back-end logic
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/taufan759/taufan759/output/github-snake.svg" />
   <img alt="Contribution snake" src="https://raw.githubusercontent.com/taufan759/taufan759/output/github-snake.svg" width="100%" />
 </picture>
-
-<p>
-  <img height="160" src="https://github-readme-stats-eight-theta.vercel.app/api?username=taufan759&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="160" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=taufan759&layout=compact&langs_count=8&theme=algolia"/>
-</p>
 
 ## Contact
 
