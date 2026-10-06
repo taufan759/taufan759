@@ -22,7 +22,10 @@ I build scalable, user-centered web applications, turning complex back-end logic
   <img alt="Contribution snake" src="https://raw.githubusercontent.com/taufan759/taufan759/output/github-snake.svg" width="100%" />
 </picture>
 
-<img alt="GitHub stats and languages" src="https://raw.githubusercontent.com/taufan759/taufan759/metrics/github-metrics.svg" width="100%" />
+<p align="center">
+  <img alt="GitHub stats" src="https://raw.githubusercontent.com/taufan759/taufan759/metrics/github-stats.svg" width="49%" />
+  <img alt="Top languages" src="https://raw.githubusercontent.com/taufan759/taufan759/metrics/github-languages.svg" width="49%" />
+</p>
 
 ## Contact
 
