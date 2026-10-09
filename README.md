@@ -21,8 +21,8 @@ I'm a software engineer at Lunaray Beauty Factory, building web and app software
 <br/><br/><br/>
 
 <p align="center">
-  <img alt="GitHub stats" height="170" src="https://github-readme-stats-eight-theta.vercel.app/api?username=taufan759&show_icons=true&theme=algolia&hide_border=true&include_all_commits=true&count_private=true" />
-  <img alt="Top languages" height="170" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=taufan759&layout=compact&langs_count=6&theme=algolia&hide_border=true" />
+  <img alt="GitHub stats" width="49%" src="https://github-readme-stats-eight-theta.vercel.app/api?username=taufan759&show_icons=true&theme=algolia&hide_border=true&include_all_commits=true&count_private=true" />
+  <img alt="Top languages" width="49%" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=taufan759&layout=compact&langs_count=6&theme=algolia&hide_border=true" />
 </p>
 
 <br/>
