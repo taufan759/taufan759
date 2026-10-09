@@ -4,15 +4,11 @@
   <img alt="Coding" width="400" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif">
 </p>
 
-### Full-Stack Developer | Building Intelligent Solutions
+### Software Engineer & AI Enthusiast | Building Reliable Software
 
-I build scalable, user-centered web applications, turning complex back-end logic into intuitive, responsive interfaces. I've delivered e-commerce platforms and large-scale government information systems, and I'm currently focused on AI integration and conversational interfaces.
+I'm a software engineer at Lunaray Beauty Factory, building web and app software end to end with Laravel and React. I also work hands-on with AI: chatbots, workflow automation with n8n, and data pipelines. I've delivered e-commerce platforms and large-scale government information systems.
 
 📍 Bandung, West Java, Indonesia
-
-<!--
-<img src="https://komarev.com/ghpvc/?username=taufan759&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
--->
 
 ## GitHub Activity
 
@@ -33,4 +29,4 @@ I build scalable, user-centered web applications, turning complex back-end logic
 
 ## Contact
 
-[LinkedIn](https://www.linkedin.com/in/taufanhs) · [Portfolio](https://portfolio-taufan.vercel.app) · [Email](mailto:taufan759@gmail.com)
+[LinkedIn](https://www.linkedin.com/in/taufanhs) · [Portfolio](https://taufanakbr.my.id) · [Blog](https://taufanakbr.my.id/en/blog) · [Email](mailto:taufan759@gmail.com)
